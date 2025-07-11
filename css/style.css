@@ -36,3 +36,16 @@ h4.logo {
   font-weight: bold;
   color: #4e47ff;
 }
+div.hero-section {
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+}
+h1.hero-heading {
+  text-align: center;
+  font-size: 65px;
+}
