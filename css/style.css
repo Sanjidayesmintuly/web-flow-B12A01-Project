@@ -70,3 +70,33 @@ p.action-subtitle {
   line-height: 30px;
   color: rgb(37, 36, 50, 50%);
 }
+div.user-section {
+  background-color: rgb(78, 71, 255, 10%);
+  border-radius: 24px;
+  padding: 40px 0 20px;
+}
+h2.user-heading {
+  font-weight: bold;
+  font-size: 38px;
+  text-align: center;
+  margin-bottom: 40px;
+}
+h2.user-title {
+  font-weight: bold;
+  font-size: 80px;
+  color: #4e47ff;
+}
+p.user-subtitle {
+  font-size: 20px;
+  color: rgb(0, 0, 0, 50%);
+}
+div.user-box {
+  text-align: center;
+
+  display: inline-block;
+}
+div.box-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
